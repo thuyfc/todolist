@@ -1,0 +1,36 @@
+.search-input {
+    width: 250px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    outline: none;
+    font-size: 16px;
+  }
+  body{
+    /* display: block; */
+  }
+.css-pdct74-MuiTablePagination-selectLabel{
+  
+} 
+
+.MuiInputBase-root.MuiInputBase-colorPrimary.css-16c50h-MuiInputBase-root-MuiTablePagination-select{
+  margin-bottom: 12px;
+}
+.MuiTablePagination-actions{
+  margin-bottom: 12px;
+
+}
+tbody .table-tr:nth-of-type(odd) {
+  background-color: #f5f5f5;
+}
+.tbody .table-tr td{
+  padding: 2px;
+}
+tbody tr.MuiTableRow-root.table-tr.css-1q1u3t4-MuiTableRow-root{
+  padding:  0px !important;
+
+}
+.btn-icon-cart:hover{
+  transform: scale(1.3);
+  transition: all .2s linear;
+}

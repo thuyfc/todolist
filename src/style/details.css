@@ -1,0 +1,54 @@
+.employee-details{}
+.employee-details h3{
+    text-align: center;
+    color: rgb(136, 127, 255);
+}
+
+.personal-info{ display: flex;
+    border-bottom: 1px solid rgb(161, 160, 158);
+padding: 20px;
+
+}
+.avatar{
+height: 100px;
+width: 100px;
+border-radius: 100%;
+background-color: rgb(192, 189, 186);
+text-align: center;
+}
+.details{
+    margin-left: 80px;
+    margin-top: 10px;
+}
+.details p{
+    font-size: 18px;
+    padding: 10px;
+    font-weight: 700;
+
+}
+
+.employee-info {
+    display: flex;
+}
+
+
+.employee-info p{
+    padding: 15px;
+width: 300px;
+}
+
+.self-introduction p {
+
+    padding: 10px;
+}
+.self-introduction h5{
+margin-top:20px ;
+text-align: center;
+}
+.id{}
+
+
+.phone{}
+
+
+.address{}
